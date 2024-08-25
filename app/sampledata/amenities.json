@@ -1,0 +1,25 @@
+{
+  "amenities": [
+    {
+      "id": 1,
+      "image": "https://images.luxuryhotel.guru/hotelimage.php?p_id=6893163&code=eed34713f8d5a962994b71a05daadb8b&webpage=hotels-with-gym.com&link=https%3A%2F%2Fsubdomain.cloudimg.io%2Fcrop%2F512x384%2Fq70.fcontrast10.fbright0.fsharp5%2Fhttps%3A%2F%2Fq-xx.bstatic.com%2Fxdata%2Fimages%2Fhotel%2Fmax1536%2F446554553.jpg%3Fk%3D825fc1021969fe44f946fe4f7990f04e82d9ebdd4b0c74f0ca0a9c49a9e1bba2%26o%3D",
+      "name": "Gym",
+      "hours": "Accessible 24 hours a day",
+      "desc": "State-of-the-art fitness equipment including cardiovascular machines with personal flat screen TVs"
+    },
+    {
+      "id": 2,
+      "image": "https://www.editionhotels.com/wp-content/uploads/2023/02/Tampa3_28_RGB_V2-scaled.jpg",
+      "name": "Spa",
+      "hours": "Open daily 8:00 AM - 6:00 PM",
+      "desc": "Rejuvenate and unwind with decadent massages, fruit scrubs and botanical bliss at our luxurious Spa. Refresh your mind body and soul with our specials on signature services bringing you wellness and relaxation for less."
+    },
+    {
+      "id": 3,
+      "image": "https://images.rosewoodhotels.com/is/image/rwhg/rosewoodmiramarbeach-cabanapool",
+      "name": "Pool",
+      "hours": "Open daily 8:00 AM - 11:00 PM",
+      "desc": "Enjoy our outdoor heated swimming pool and jacuzzi, stone fireplace and tanning deck. Relax surrounded by palm trees at our hotel pool. Enjoy poolside bites at The Joe Bar."
+    }
+  ]
+}

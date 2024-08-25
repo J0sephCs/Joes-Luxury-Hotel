@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Joe\'s Luxury Hotel</string>
+    <string name="map_api_key">AIzaSyCl-9usjv7kG6KdIcbW6PYRNCPFvolILXo</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+</resources>

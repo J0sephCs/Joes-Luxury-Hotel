@@ -1,0 +1,31 @@
+{
+  "rooms": [
+    {
+
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "roomPrice": "$50.00 per night",
+      "roomType": "Single",
+      "roomDesc": "Our single rooms are ideal for one person. Our single rooms overlook the street, and all have double glazing. Single rooms have a single bed (120cm), en-suite bathroom with bath and toilet. For children under the age of 2, cots are available and can be requested at the time of booking."
+
+    },
+    {
+
+      "id": 2,
+      "image": "https://www.bestwesterncountry.com/wp-content/uploads/2019/04/63380668_XXL.jpg",
+      "roomPrice": "$100.00 per night",
+      "roomType": "Deluxe Double",
+      "roomDesc": "The Deluxe Double room sleeps four guests comfortably with 2 double beds. Oversized windows and 9-foot ceilings give these rooms extra height and lots of natural light."
+
+    },
+    {
+
+      "id": 3,
+      "image": "https://www.manila-hotel.com.ph/wp-content/uploads/2023/07/TMH_Presidential-Suite_Bedroom-1536x1023.jpg",
+      "roomPrice": "$200.00 per night",
+      "roomType": "Executive",
+      "roomDesc": "Experience luxury at the Exexcutive Suite, an inspired creation fit for discerning guests seeking the ultimate in luxury and sophistication. With its opulent design, exquisite amenities, a commanding view of the Bay and its iconic sunset, and a panoramic view of the historic Walled City of Intramuros – the Executive Suite offers an unrivaled experience of grandeur."
+
+    }
+  ]
+}
