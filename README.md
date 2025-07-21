@@ -1,6 +1,7 @@
 Joes Luxury Hotel
 ---
 Joes Luxury Hotel is a full-stack Android application designed to enhance the guest experience by allowing hotel guests to easily create an account and log in using their email and password. The app provides a seamless experience for users to view and book rooms directly from their mobile devices, access detailed information about the hotel, their booking information, and check out, all within the app.
+
 To further enrich the guest experience, the app features an integrated map powered by the Google Maps API, enabling users to explore the surrounding area of the hotel. The backend infrastructure relies on a MySQL database to securely store guest and booking information, with advanced techniques such as SHA256 hashing used to protect guest passwords. The application’s backend is powered by a Spring Boot REST API, which efficiently handles all requests related to account creation, room bookings, fetching booking details, and checking out.
 
 DEMO
